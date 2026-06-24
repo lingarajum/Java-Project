@@ -1,0 +1,1 @@
+print("Java is powerfu and most secue lang")
